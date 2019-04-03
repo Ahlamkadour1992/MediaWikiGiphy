@@ -1,7 +1,7 @@
 # MediaWikiGiphy
 ## By Jasmine, Aman, & Ahlam
 
-## Link :  
+## Link :   https://lotus-1.github.io/MediaWikiGiphy/
 
 ## Description:
 
