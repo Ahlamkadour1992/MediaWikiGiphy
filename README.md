@@ -1,7 +1,7 @@
 # MediaWikiGiphy
-## By Jasmine, Aman, & Ahlam
+### By Jasmine, Aman, & Ahlam
 
-## Link :   https://lotus-1.github.io/MediaWikiGiphy/
+### Link :   https://lotus-1.github.io/MediaWikiGiphy/
 
 ## Description:
 
@@ -22,11 +22,11 @@
 
 ### If you have any question or suggestions. please free to contact us.
 
-## Emails:
+### Emails:
 * ###  Ahlam : ahlamkadour2016@gmail.com
 * ### Jasmine : jasmineb2011@gmail.com
 * ### Aman : amanhalabyar7@gmail.com
 
 ### And you can raise an issue on github if you have any comments related to code, style, or README.
 
-## Thank you for visiting.
+### Thank you for visiting :rose:
