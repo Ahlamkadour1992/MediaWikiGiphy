@@ -6,19 +6,19 @@ body{
   text-align: center;
 }
 
-.h2{
+.h3{
   font-size: 50px;
   font-weight: bold;
   font-family: fantasy;
 }
-.h3{
+.headline1{
   font-size: 50px;
   padding: 0.5%;
   font-weight: bold;
   font-family: fantasy;
 }
 
-.h1{
+.headline2{
   font-size: 150px;
   color: #00004d;
   font-weight: bold;
